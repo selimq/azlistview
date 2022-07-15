@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
@@ -55,24 +53,29 @@ const List<String> kIndexBarData = const [
   'A',
   'B',
   'C',
+  'Ç',
   'D',
   'E',
   'F',
   'G',
+  'Ğ',
   'H',
   'I',
+  'İ',
   'J',
   'K',
   'L',
   'M',
   'N',
   'O',
+  'Ö',
   'P',
   'Q',
   'R',
   'S',
   'T',
   'U',
+  'Ü',
   'V',
   'W',
   'X',
